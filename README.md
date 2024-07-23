@@ -1,4 +1,4 @@
-# CyberStart Hafta 2 - Python Uygulamaları
+# CyberStart - Python Uygulamaları
 IBM SkillsBuild ve Kodluyoruz işbirliği ile düzenlenen "IBM ile Kodluyoruz: CyberStart" programının python uygulamaları için oluşturuldu.
 
 HAFTA 2:
